@@ -1,0 +1,6 @@
+{
+  "name": "NewsPulse",
+  "description": "A premium News application designed with an OLED-friendly dark theme redesign, interactive wireframes, a comprehensive Design System showcase, and an advanced UX Case Study.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
